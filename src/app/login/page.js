@@ -156,7 +156,7 @@ export default function Navbar() {
               href={"/login"}
               onClick={() => setOpen(false)}
             >
-              Login
+              Loginngit 
             </Link>
             <Link
               className="hover:font-bold hover:text-red-500"
